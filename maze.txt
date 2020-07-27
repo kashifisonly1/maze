@@ -1,0 +1,3752 @@
+0 0 2 4 78
+0
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+2
+999
+Be careful! there are enemies surrounding.
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+100
+You are facing a Wall
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+177
+4
+You are facing a Box
+177
+4
+You are facing a Box
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+178
+100
+You are facing a Locked Door
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+178
+100
+You are facing a Locked Door
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+178
+100
+You are facing a Locked Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+178
+100
+You are facing a Locked Door
+219
+100
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+178
+100
+You are facing a Locked Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+178
+100
+You are facing a Locked Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+178
+100
+You are facing a Locked Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+177
+101
+You are facing a Box
+177
+101
+You are facing a Box
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+178
+100
+You are facing a Locked Door
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+176
+101
+You are facing a Door
+178
+101
+You are facing a Locked Door
+178
+101
+You are facing a Locked Door
+178
+101
+You are facing a Locked Door
+178
+101
+You are facing a Locked Door
+178
+101
+You are facing a Locked Door
+178
+101
+You are facing a Locked Door
+178
+101
+You are facing a Locked Door
+178
+101
+You are facing a Locked Door
+176
+101
+You are facing a Door
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+1
+999
+You are facing a Enemy
+1
+999
+You are facing a Enemy
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+1
+999
+You are facing a Enemy
+1
+999
+You are facing a Enemy
+1
+999
+You are facing a Enemy
+1
+999
+You are facing a Enemy
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+1
+999
+You are facing a Enemy
+1
+999
+You are facing a Enemy
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+6
+999
+You are facing a Gem
+6
+999
+You are facing a Gem
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+178
+999
+You are facing a Locked Door
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+11
+100
+You are facing a Key
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+178
+999
+You are facing a Locked Door
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+4
+999
+You are facing a Diamond
+6
+999
+You are facing a Gem
+4
+999
+You are facing a Diamond
+6
+999
+You are facing a Gem
+4
+999
+You are facing a Diamond
+6
+999
+You are facing a Gem
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+6
+999
+You are facing a Gem
+4
+999
+You are facing a Diamond
+6
+999
+You are facing a Gem
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+219
+104
+You are facing a Wall
+178
+104
+You are facing a Locked Door
+178
+104
+You are facing a Locked Door
+178
+104
+You are facing a Locked Door
+178
+104
+You are facing a Locked Door
+178
+104
+You are facing a Locked Door
+178
+104
+You are facing a Locked Door
+178
+104
+You are facing a Locked Door
+178
+104
+You are facing a Locked Door
+219
+104
+You are facing a Wall
+176
+101
+You are facing a Door
+178
+101
+You are facing a Locked Door
+178
+101
+You are facing a Locked Door
+178
+101
+You are facing a Locked Door
+178
+101
+You are facing a Locked Door
+178
+101
+You are facing a Locked Door
+178
+101
+You are facing a Locked Door
+178
+101
+You are facing a Locked Door
+178
+101
+You are facing a Locked Door
+176
+101
+You are facing a Door
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+2
+999
+You can get much money from here.
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+11
+103
+You are facing a Key
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+176
+103
+You are facing a Door
+178
+103
+You are facing a Locked Door
+178
+103
+You are facing a Locked Door
+178
+103
+You are facing a Locked Door
+178
+103
+You are facing a Locked Door
+178
+103
+You are facing a Locked Door
+178
+103
+You are facing a Locked Door
+178
+103
+You are facing a Locked Door
+178
+103
+You are facing a Locked Door
+176
+103
+You are facing a Door
+219
+104
+You are facing a Wall
+178
+104
+You are facing a Locked Door
+178
+104
+You are facing a Locked Door
+178
+104
+You are facing a Locked Door
+178
+104
+You are facing a Locked Door
+178
+104
+You are facing a Locked Door
+178
+104
+You are facing a Locked Door
+178
+104
+You are facing a Locked Door
+178
+104
+You are facing a Locked Door
+219
+104
+You are facing a Wall
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+178
+102
+You are facing a Locked Door
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+178
+102
+You are facing a Locked Door
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+178
+102
+You are facing a Locked Door
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+178
+102
+You are facing a Locked Door
+219
+102
+You are facing a Wall
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+178
+102
+You are facing a Locked Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+178
+102
+You are facing a Locked Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+178
+102
+You are facing a Locked Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+177
+32
+You are facing a Box
+177
+32
+You are facing a Box
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+178
+102
+You are facing a Locked Door
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+11
+102
+You are facing a Key
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+1
+999
+You are facing a Enemy
+1
+999
+You are facing a Enemy
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+1
+999
+You are facing a Enemy
+1
+999
+You are facing a Enemy
+1
+999
+You are facing a Enemy
+1
+999
+You are facing a Enemy
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+1
+999
+You are facing a Enemy
+1
+999
+You are facing a Enemy
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+176
+103
+You are facing a Door
+178
+103
+You are facing a Locked Door
+178
+103
+You are facing a Locked Door
+178
+103
+You are facing a Locked Door
+178
+103
+You are facing a Locked Door
+178
+103
+You are facing a Locked Door
+178
+103
+You are facing a Locked Door
+178
+103
+You are facing a Locked Door
+178
+103
+You are facing a Locked Door
+176
+103
+You are facing a Door
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+178
+999
+You are facing a Locked Door
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+177
+106
+You are facing a Box
+177
+106
+You are facing a Box
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+176
+105
+You are facing a Door
+178
+105
+You are facing a Locked Door
+178
+105
+You are facing a Locked Door
+178
+105
+You are facing a Locked Door
+178
+105
+You are facing a Locked Door
+178
+105
+You are facing a Locked Door
+178
+105
+You are facing a Locked Door
+178
+105
+You are facing a Locked Door
+178
+105
+You are facing a Locked Door
+219
+105
+You are facing a Wall
+178
+999
+You are facing a Locked Door
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+1
+999
+You are facing a Enemy
+1
+999
+You are facing a Enemy
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+1
+999
+You are facing a Enemy
+1
+999
+You are facing a Enemy
+1
+999
+You are facing a Enemy
+1
+999
+You are facing a Enemy
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+1
+999
+You are facing a Enemy
+1
+999
+You are facing a Enemy
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+177
+107
+You are facing a Box
+177
+107
+You are facing a Box
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+12
+104
+You are facing a Key
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+2
+999
+You are very close to kidnapper.
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+176
+999
+You are facing a Door
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+176
+105
+You are facing a Door
+178
+105
+You are facing a Locked Door
+178
+105
+You are facing a Locked Door
+178
+105
+You are facing a Locked Door
+178
+105
+You are facing a Locked Door
+178
+105
+You are facing a Locked Door
+178
+105
+You are facing a Locked Door
+178
+105
+You are facing a Locked Door
+178
+105
+You are facing a Locked Door
+219
+105
+You are facing a Wall
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+178
+106
+You are facing a Locked Door
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+11
+105
+You are facing a Key
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+178
+106
+You are facing a Locked Door
+176
+999
+You are facing a Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+178
+106
+You are facing a Locked Door
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+106
+You are facing a Wall
+219
+106
+You are facing a Wall
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+176
+999
+You are facing a Door
+219
+107
+You are facing a Wall
+178
+106
+You are facing a Locked Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+178
+107
+You are facing a Locked Door
+178
+106
+You are facing a Locked Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+178
+107
+You are facing a Locked Door
+178
+106
+You are facing a Locked Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+177
+4
+You are facing a Box
+177
+4
+You are facing a Box
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+178
+107
+You are facing a Locked Door
+219
+106
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+107
+You are facing a Wall
+219
+107
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+178
+107
+You are facing a Locked Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+178
+107
+You are facing a Locked Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+178
+107
+You are facing a Locked Door
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+32
+999
+You are facing a Empty area
+219
+999
+You are facing a Wall
+219
+107
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall
+219
+999
+You are facing a Wall

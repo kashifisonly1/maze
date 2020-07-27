@@ -1,0 +1,11 @@
+			--- STORYLINE ---
+
+An inspector is got kidnapped by the enemies and is locked in an house.
+Kidnappers are in other rooms and inspector can run away from the house.
+There are gems and diamonds in the house that inspector can earn as reward.
+If inspector succeeded to reach the end, you will win. If he enters the
+kidnapper's room then you will lose.
+		
+		Help the inspector to run away.
+
+

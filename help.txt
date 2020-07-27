@@ -1,0 +1,17 @@
+		--- HELP MENU ---
+Directions:
+	NORTH: UP
+	SOUTH: DOWN
+	WEST: RIGHT
+	EAST: LEFT
+Commands:
+	1. move N|S|W|E => to move to specified direction.
+	2. look N|S|W|E => to change direction.
+	3. get => to pick any key, diamond, or gems.
+	4. open => to open door.
+	5. examine => to open box.
+	6. unlock => to open locked doors, you are require keys to open.
+	7. inventory => to view inventory items.
+	8. talk => to talk humans.
+	9. save => to save your game.
+	10. exit => to quit game.
